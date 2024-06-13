@@ -1,5 +1,5 @@
-!pip install plotly
-!pip install streamlit
+pip install plotly
+pip install streamlit
 
 import pandas as pd 
 import plotly.express as pl
