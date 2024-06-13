@@ -1,5 +1,5 @@
 
-pip install numpy
+install numpy
 
 import pandas as pd 
 import plotly.express as pl
