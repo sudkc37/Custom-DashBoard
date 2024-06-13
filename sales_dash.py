@@ -1,5 +1,5 @@
 
-!pip install plotly
+install plotly
 
 import pandas as pd 
 import plotly.express as pl
